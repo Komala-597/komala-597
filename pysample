@@ -1,0 +1,3 @@
+print("hello im ghost")
+i = 1
+print (i)
